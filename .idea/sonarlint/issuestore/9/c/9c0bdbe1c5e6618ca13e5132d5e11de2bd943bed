@@ -1,0 +1,10 @@
+
+€
+java:S1488*"cImmediately return this expression instead of assigning it to the temporary variable "updatedUser".(ä—ş¹8åûäÇÛ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ñ¼à8çûäÇÛ1
+u
+java:S3655"XCall "optionalUser.isPresent()" or "!optionalUser.isEmpty()" before accessing the value.(˜ÙúÛ8ğûäÇÛ1
+r
+java:S3655&"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(çÆ‡³ıÿÿÿÿ8ğûäÇÛ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğûäÇÛ1
